@@ -1,4 +1,4 @@
- TRUDScripts
+# TRUDScripts
 Useful scripts and documents to manage different AX and D365FO components
 ## Setup Financial Reporting on a Onebox DEV VM
 Power BI script to setup Financial Reporting on One-Box DEV VM
