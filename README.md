@@ -19,9 +19,7 @@ Power BI script to setup Financial Reporting on One-Box DEV VM
 - [My first D365FO Build pipeline with Microsoft-hosted agent](http://alexvoy.blogspot.com/2021/06/my-first-d365fo-build-pipeline-with.html)
 
 ## Trace parcer on a Onebox VM
-8.1
-- https://sinedax.blogspot.com/2018/12/trace-parser-doesnt-work-dynamics-365.html
-File size limitation to 1Gb (K:\AosService\WebRoot\Services\TraceParserService\TraceParserService.config)
+- 8.1 https://sinedax.blogspot.com/2018/12/trace-parser-doesnt-work-dynamics-365.html File size limitation to 1Gb (K:\AosService\WebRoot\Services\TraceParserService\TraceParserService.config)
 - [How to get bigger trace files for trace parser of MSDyn365FO](https://msdyn365fo.wordpress.com/2020/07/22/how-to-get-bigger-trace-files-for-trace-parser-of-msdyn365fo/)
 
 ## Comprehensive list of types for Metadata search 
