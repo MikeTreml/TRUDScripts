@@ -59,5 +59,5 @@ File size limitation to 1Gb (K:\AosService\WebRoot\Services\TraceParserService\T
 
 ## ON-Premises links
 - [On-premises certificate rotation](https://community.dynamics.com/ax/b/axinthefield/posts/on-premises-certificate-rotation)
-- [Installation changes for On-Premises environments platform 41 and later](https://community.dynamics.com/ax/b/axinthefield/posts/installation-changes-  for-on-premises-environments-platform-41-and-later)
+- [Installation changes for On-Premises environments platform 41 and later](https://community.dynamics.com/ax/b/axinthefield/posts/installation-changes-for-on-premises-environments-platform-41-and-later)
 - [Path to One Version: In-Place Upgrade from within the VHD](https://community.dynamics.com/ax/b/axinthefield/posts/path-to-one-version-in-place-upgrade)
